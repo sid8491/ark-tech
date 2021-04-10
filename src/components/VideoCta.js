@@ -33,7 +33,7 @@ class VideoCta extends Component {
                     designing, preparation of estimates, surveying, valuation,
                     interior decoration with expertise in Vaastu. The
                     organisation is running its head office at 647/22, Shiv
-                    Vihar, Sector - I, Jankipuram, Lucknow consisting of more
+                    Vihar, Sector-I, Jankipuram, Lucknow consisting of more
                     than 16 efficient staff members as architects, engineers,
                     draftsmen, contractors and authorized valuers. Whole team
                     comprises of more than 800 people, who are specialized in

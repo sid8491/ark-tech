@@ -33,13 +33,7 @@ class Contact extends Component{
                 {/*Contact section start*/}
                 <div className="conact-section">
                     <div className="container">
-                    <div className="row section-space--bottom--50">
-                        <div className="col">
-                            <div className="contact-map">
-                            <iframe title="google-map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d392436.93004030554!2d-105.13838587646829!3d39.7265847007123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1558429398879!5m2!1sen!2sbd" allowFullScreen></iframe>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div className="row">
                         <div className="col-lg-4 col-12">
                         <div className="contact-information">
@@ -47,15 +41,23 @@ class Contact extends Component{
                             <ul>
                                 <li>
                                     <span className="icon"><i className="ion-android-map" /></span>
-                                    <span className="text"><span>Stock Building, 125 Main Street 1st Lane, San Francisco, USA</span></span>
+                                    <span className="text"><span>647/22, Shiv Vihar, Sector-I, Jankipuram, Lucknow</span></span>
                                 </li>
                                 <li>
-                                    <span className="icon"><i className="ion-ios-telephone-outline" /></span>
-                                    <span className="text"><a href="tel:1234567890">(001) 24568 365 987</a><a href="tel:1234567890">(001) 65897 569 784</a></span>
+                                    <span className="icon"><i className="ion-home" /></span>
+                                    <span className="text"><span>Mangalam Grand, IIM Road, Bithouli, Lucknow</span></span>
                                 </li>
                                 <li>
-                                    <span className="icon"><i className="ion-ios-email-outline" /></span>
-                                    <span className="text"><a href="mailto:info@example.com">info@example.com</a><a href="mailto:info@example.com">info@example.com</a></span>
+                                    <span className="icon"><i className="ion-ios-telephone" /></span>
+                                    <span className="text">Call us at: <a href="tel:1234567890">+91 941 502 3637</a></span>
+                                </li>
+                                <li>
+                                    <span className="icon"><i className="ion-ios-email" /></span>
+                                    <span className="text">Email us at: <a href="mailto:arktech@gmail.com">arktech@gmail.com</a></span>
+                                </li>
+                                <li>
+                                    <span className="icon"><i className="ion-android-desktop" /></span>
+                                    <span className="text">Visit us at: <a href="http://www.arktechlucknow.com">www.arktechlucknow.com</a></span>
                                 </li>
                             </ul>
                         </div>
@@ -72,6 +74,20 @@ class Contact extends Component{
                             </div>
                             </form>
                         </div>
+                        </div>
+                    </div>
+                    <div className="row section-space--bottom--50 pt-3">
+                        <div className="col">
+                            <div className="contact-map">
+                            <iframe title="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.468483903413!2d80.94578395117536!3d26.92035876615763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399957add115218d%3A0xf763eab120a96b47!2sARK-TECH%20Engineering%20Services!5e0!3m2!1sen!2sin!4v1618093326883!5m2!1sen!2sin" allowFullScreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row section-space--bottom--50">
+                        <div className="col">
+                            <div className="contact-map">
+                            <iframe title="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.117684753907!2d80.92052361549932!3d26.931483383119634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399956f824c5a4f5%3A0xf2ad73b92ceb1479!2sMangal%20utsav%20lawn!5e0!3m2!1sen!2sin!4v1618093752645!5m2!1sen!2sin" allowFullScreen></iframe>
+                            </div>
                         </div>
                     </div>
                     </div>

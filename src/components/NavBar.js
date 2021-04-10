@@ -67,18 +67,8 @@ class NavBar extends Component {
                             </a>
                           </li>
                           <li>
-                            <a href="//vimeo.com">
-                              <i className="zmdi zmdi-vimeo" />
-                            </a>
-                          </li>
-                          <li>
-                            <a href="//linkedin.com">
-                              <i className="zmdi zmdi-linkedin-box" />
-                            </a>
-                          </li>
-                          <li>
-                            <a href="//skype.com">
-                              <i className="zmdi zmdi-skype" />
+                            <a href="//instagram.com">
+                              <i className="zmdi zmdi-instagram" />
                             </a>
                           </li>
                         </ul>
@@ -140,7 +130,7 @@ class NavBar extends Component {
                               Address
                             </h6>
                             <p className="header-info-single-item__subtitle">
-                                647/22, Shiv Vihar, Sector - I, Jankipuram, Lucknow
+                              647/22, Shiv Vihar, Sector-I, Jankipuram, Lucknow
                             </p>
                           </div>
                         </div>
@@ -170,7 +160,7 @@ class NavBar extends Component {
                         <nav>
                           <ul>
                             <li>
-                              <Link to={`${process.env.PUBLIC_URL}/home-one`}>
+                              <Link to={`${process.env.PUBLIC_URL}/`}>
                                 HOME
                               </Link>
                             </li>
@@ -179,56 +169,17 @@ class NavBar extends Component {
                                 ABOUT
                               </Link>
                             </li>
-                            <li className="has-children has-children--multilevel-submenu">
+                            <li>
                               <Link to={`${process.env.PUBLIC_URL}/services`}>
                                 SERVICE
                               </Link>
-                              <ul className="submenu">
-                                <li>
-                                  <Link
-                                    to={`${process.env.PUBLIC_URL}/services`}
-                                  >
-                                    Service Page
-                                  </Link>
-                                </li>
-                                <li>
-                                  <Link
-                                    to={`${process.env.PUBLIC_URL}/service-details-left-sidebar`}
-                                  >
-                                    Service Details Left Sidebar
-                                  </Link>
-                                </li>
-                                <li>
-                                  <Link
-                                    to={`${process.env.PUBLIC_URL}/service-details-right-sidebar`}
-                                  >
-                                    Service Details Right Sidebar
-                                  </Link>
-                                </li>
-                              </ul>
                             </li>
-                            <li className="has-children has-children--multilevel-submenu">
+                            <li>
                               <Link to={`${process.env.PUBLIC_URL}/projects`}>
                                 PROJECT
                               </Link>
-                              <ul className="submenu">
-                                <li>
-                                  <Link
-                                    to={`${process.env.PUBLIC_URL}/projects`}
-                                  >
-                                    Project Page
-                                  </Link>
-                                </li>
-                                <li>
-                                  <Link
-                                    to={`${process.env.PUBLIC_URL}/project-details`}
-                                  >
-                                    Project Details
-                                  </Link>
-                                </li>
-                              </ul>
                             </li>
-                            <li className="has-children has-children--multilevel-submenu">
+                            {/* <li className="has-children has-children--multilevel-submenu">
                               <Link
                                 to={`${process.env.PUBLIC_URL}/blog-left-sidebar`}
                               >
@@ -264,7 +215,7 @@ class NavBar extends Component {
                                   </Link>
                                 </li>
                               </ul>
-                            </li>
+                            </li> */}
                             <li>
                               <Link to={`${process.env.PUBLIC_URL}/contact-us`}>
                                 CONTACT

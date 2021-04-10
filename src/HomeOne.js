@@ -43,7 +43,7 @@ class HomeOne extends Component{
                 <TestimonialSlider/>
                 
                 {/* Blog grid */}
-                <BlogGrid background = "grey-bg" />
+                {/* <BlogGrid background = "grey-bg" /> */}
 
                 {/* Brand logo */}
                 <BrandLogoSlider background = "" />

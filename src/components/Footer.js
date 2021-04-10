@@ -91,11 +91,10 @@ class Footer extends Component{
                                 <div className="footer-widget mb-0">
                                     <h4 className="footer-widget__title">CONTACT US</h4>
                                     <div className="footer-widget__content">
-                                    <p className="address">647/22, Shiv Vihar, Sector - I, Jankipuram, Lucknow</p>
+                                    <p className="address">647/22, Shiv Vihar, Sector-I, Jankipuram, Lucknow</p>
                                     <ul className="contact-details">
-                                        <li><span>P:</span>99 55 66 88 526</li>
-                                        <li><span>F:</span>55 44 77 62</li>
-                                        <li><span>E:</span>cons@email.com</li>
+                                        <li><span>P:</span>+91 941 502 3637</li>
+                                        <li><span>E:</span>arktech@gmail.com</li>
                                     </ul>
                                     </div>
                                 </div>

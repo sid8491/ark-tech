@@ -71,8 +71,8 @@ class About extends Component {
                 </div>
                 <div className="col-lg-6 col-12 mb-30">
                   <div className="about-content-two">
-                    <h3>Welcome to ARK-TECH</h3>
-                    <h1>Best in Industry</h1>
+                    <h1>Welcome to ARK-TECH</h1>
+                    {/* <h3>Best in Industry</h3> */}
                     <h4>
                       ARK-TECH Engineering Services is a leading Architectural
                       Consultation Company at Lucknow in the field of
@@ -83,7 +83,7 @@ class About extends Component {
 
                     <p>
                       The organisation is running its head office at &nbsp;
-                      647/22, Shiv Vihar, Sector - I, Jankipuram, Lucknow
+                      647/22, Shiv Vihar, Sector-I, Jankipuram, Lucknow
                       consisting of more than 16 efficient staff members as
                       architects, engineers, draftsmen, contractors and
                       authorized valuers. Whole team comprises of more than 800
@@ -174,7 +174,7 @@ class About extends Component {
           <TeamMemberGrid />
 
           {/* Testimonial Slider */}
-          <TestimonialSlider />
+          {/* <TestimonialSlider /> */}
 
           {/* Brand logo */}
           <BrandLogoSlider background="" />
