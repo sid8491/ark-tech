@@ -29,8 +29,8 @@ class BlogLeftSidebar extends Component{
                                 </div>
                             </div>
                         </div>
-                    </div> */}
-                </div>
+                    </div>
+                </div> */}
                 {/*====================  End of breadcrumb area  ====================*/}
 
                 {/*====================  blog page content ====================*/}
