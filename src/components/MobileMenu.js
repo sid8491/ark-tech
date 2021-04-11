@@ -60,31 +60,11 @@ class MobileMenu extends Component{
                             </div>
                             <nav className="offcanvas-navigation" id="offcanvas-navigation">
                                 <ul>
-                                    <li className="menu-item-has-children">
-                                    <Link to={`${process.env.PUBLIC_URL}/home-one`}>HOME</Link>
-                                        <ul className="sub-menu">
-                                            <li><Link to={`${process.env.PUBLIC_URL}/home-one`}>Homepage One</Link></li>
-                                            <li><Link to={`${process.env.PUBLIC_URL}/home-two`}>Homepage Two</Link></li>
-                                            <li><Link to={`${process.env.PUBLIC_URL}/home-three`}>Homepage Three</Link></li>
-                                        </ul>
-                                    </li>
+                                    <li><Link to={`${process.env.PUBLIC_URL}/`}>HOME</Link></li>
                                     <li><Link to={`${process.env.PUBLIC_URL}/about-us`}>ABOUT</Link></li>
-                                    <li className="menu-item-has-children">
-                                        <Link to={`${process.env.PUBLIC_URL}/services`}>SERVICE</Link>
-                                        <ul className="sub-menu">
-                                            <li><Link to={`${process.env.PUBLIC_URL}/services`}>Service Page</Link></li>
-                                            <li><Link to={`${process.env.PUBLIC_URL}/service-details-left-sidebar`}>Service Details Left Sidebar</Link></li>
-                                            <li><Link to={`${process.env.PUBLIC_URL}/service-details-right-sidebar`}>Service Details Right Sidebar</Link></li>
-                                        </ul>
-                                    </li>
-                                    <li className="menu-item-has-children">
-                                        <Link to={`${process.env.PUBLIC_URL}/projects`} >PROJECT</Link>
-                                        <ul className="sub-menu">
-                                            <li><Link to={`${process.env.PUBLIC_URL}/projects`} >Project Page</Link></li>
-                                            <li><Link to={`${process.env.PUBLIC_URL}/project-details`}>Project Details</Link></li>
-                                        </ul>
-                                    </li>
-                                    <li className="menu-item-has-children">
+                                    <li><Link to={`${process.env.PUBLIC_URL}/services`}>SERVICES</Link></li>
+                                    <li><Link to={`${process.env.PUBLIC_URL}/projects`} >PROJECTS</Link></li>
+                                    {/* <li className="menu-item-has-children">
                                         <Link to={`${process.env.PUBLIC_URL}/blog-left-sidebar`}>BLOG</Link>
                                         <ul className="sub-menu">
                                             <li><Link to={`${process.env.PUBLIC_URL}/blog-left-sidebar`}>Blog Left Sidebar</Link></li>
@@ -92,7 +72,7 @@ class MobileMenu extends Component{
                                             <li><Link to={`${process.env.PUBLIC_URL}/blog-details-left-sidebar`}>Blog Details Left Sidebar</Link></li>
                                             <li><Link to={`${process.env.PUBLIC_URL}/blog-details-right-sidebar`}>Blog Details Right Sidebar</Link></li>
                                         </ul>
-                                    </li>
+                                    </li> */}
                                     <li><Link to={`${process.env.PUBLIC_URL}/contact-us`}>CONTACT</Link> </li>
                                 </ul>
                             </nav>
@@ -109,9 +89,7 @@ class MobileMenu extends Component{
                                 <div className="off-canvas-widget-social">
                                 <a href="#/" title="Facebook"><i className="fa fa-facebook" /></a>
                                 <a href="#/" title="Twitter"><i className="fa fa-twitter" /></a>
-                                <a href="#/" title="LinkedIn"><i className="fa fa-linkedin" /></a>
-                                <a href="#/" title="Youtube"><i className="fa fa-youtube-play" /></a>
-                                <a href="#/" title="Vimeo"><i className="fa fa-vimeo-square" /></a>
+                                <a href="#/" title="Instagram"><i className="fa fa-instagram" /></a>
                                 </div>
                                 {/*Off Canvas Widget Social End*/}
                             </div>

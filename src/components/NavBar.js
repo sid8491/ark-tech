@@ -171,12 +171,12 @@ class NavBar extends Component {
                             </li>
                             <li>
                               <Link to={`${process.env.PUBLIC_URL}/services`}>
-                                SERVICE
+                                SERVICES
                               </Link>
                             </li>
                             <li>
                               <Link to={`${process.env.PUBLIC_URL}/projects`}>
-                                PROJECT
+                                PROJECTS
                               </Link>
                             </li>
                             {/* <li className="has-children has-children--multilevel-submenu">
