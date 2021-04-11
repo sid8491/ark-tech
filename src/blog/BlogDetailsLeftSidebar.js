@@ -16,7 +16,7 @@ class BlogDetailsLeftSidebar extends Component{
                 
                 {/* breadcrumb */}
                 {/*====================  breadcrumb area ====================*/}
-                <div className="breadcrumb-area breadcrumb-bg">
+                {/* <div className="breadcrumb-area breadcrumb-bg">
                     <div className="container">
                         <div className="row">
                             <div className="col">
@@ -31,7 +31,7 @@ class BlogDetailsLeftSidebar extends Component{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/*====================  End of breadcrumb area  ====================*/}
 
                 {/*====================  blog details page content ====================*/}

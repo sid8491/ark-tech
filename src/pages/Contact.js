@@ -11,7 +11,7 @@ class Contact extends Component{
 
                 {/* breadcrumb */}
                 {/*====================  breadcrumb area ====================*/}
-                <div className="breadcrumb-area breadcrumb-bg">
+                {/* <div className="breadcrumb-area breadcrumb-bg">
                     <div className="container">
                         <div className="row">
                             <div className="col">
@@ -25,7 +25,7 @@ class Contact extends Component{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/*====================  End of breadcrumb area  ====================*/}
 
                 {/*====================  content page content ====================*/}

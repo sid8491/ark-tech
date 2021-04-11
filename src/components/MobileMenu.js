@@ -80,8 +80,8 @@ class MobileMenu extends Component{
                                 <div className="off-canvas-contact-widget">
                                 <div className="header-contact-info">
                                     <ul className="header-contact-info__list">
-                                    <li><i className="ion-android-phone-portrait" /> <a href="tel://12452456012">(1245) 2456 012 </a></li>
-                                    <li><i className="ion-android-mail" /> <a href="mailto:info@yourdomain.com">info@yourdomain.com</a></li>
+                                    <li><i className="ion-android-phone-portrait" /> <a href="tel://+919415023637">+91 941 502 3637 </a></li>
+                                    <li><i className="ion-android-mail" /> <a href="mailto:arktech@gmail.com">arktech@gmail.com</a></li>
                                     </ul>
                                 </div>
                                 </div>

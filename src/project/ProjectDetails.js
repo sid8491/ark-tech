@@ -14,7 +14,7 @@ class Projects extends Component{
 
                 {/* breadcrumb */}
                 {/*====================  breadcrumb area ====================*/}
-                <div className="breadcrumb-area breadcrumb-bg">
+                {/* <div className="breadcrumb-area breadcrumb-bg">
                     <div className="container">
                         <div className="row">
                             <div className="col">
@@ -29,7 +29,7 @@ class Projects extends Component{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/*====================  End of breadcrumb area  ====================*/}
 
                 {/*====================  project details page content ====================*/}

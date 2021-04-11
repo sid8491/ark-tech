@@ -15,7 +15,7 @@ class ServiceDetailsRightSidebar extends Component{
 
                 {/* breadcrumb */}
                 {/*====================  breadcrumb area ====================*/}
-                <div className="breadcrumb-area breadcrumb-bg">
+                {/* <div className="breadcrumb-area breadcrumb-bg">
                     <div className="container">
                         <div className="row">
                             <div className="col">
@@ -30,7 +30,7 @@ class ServiceDetailsRightSidebar extends Component{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/*====================  End of breadcrumb area  ====================*/}
 
                 <div className="page-wrapper section-space--inner--120">
