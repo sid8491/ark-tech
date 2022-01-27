@@ -37,7 +37,7 @@ class HomeOne extends Component{
                 <ProjectSlider/>
                 
                 {/* Team job */}
-                <TeamJob/>
+                {/* <TeamJob/> */}
                 
                 {/* Testimonial Slider */}
                 <TestimonialSlider/>

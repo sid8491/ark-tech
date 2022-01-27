@@ -73,33 +73,37 @@ class About extends Component {
                   <div className="about-content-two">
                     <h1>Welcome to ARK-TECH</h1>
                     {/* <h3>Best in Industry</h3> */}
-                    <h4>
+                    <p>
                       ARK-TECH Engineering Services is a leading Architectural
                       Consultation Company at Lucknow in the field of
-                      consultation, construction, supervision of construction,
-                      designing, preparation of estimates, surveying, valuation,
-                      interior decoration with expertise in Vaastu.
-                    </h4>
+                      consultation, construction, supervision of
+                      construction,architectural and structural designing,
+                      preparation of estimates, surveying, valuation, interior
+                      decoration with expertise in Vaastu. The organisation is
+                      running its head office at 647/22, Shiv Vihar, Sector - I,
+                      Jankipuram, and in its branch office at Mangalam Grand,
+                      IIM Road, Lucknow which consists of more than 16 staff
+                      members as architects, engineers, draughtsmen,
+                      construction executives and authorized property valuers.
+                      The whole team comprises of more than 800 people, who are
+                      specialized in different fields related to construction
+                      industry and concerned with the organisation.
+                    </p>
 
                     <p>
-                      The organisation is running its head office at &nbsp;
-                      647/22, Shiv Vihar, Sector-I, Jankipuram, Lucknow
-                      consisting of more than 16 efficient staff members as
-                      architects, engineers, draftsmen, contractors and
-                      authorized valuers. Whole team comprises of more than 800
-                      people, who are specialized in different fields, concerned
-                      with the organisation.
-                    </p>
-                    <p>
-                      ARK-TECH Engineering Services has an experience of total
-                      26 years now which boasts construction and designing of
-                      hundreds of buildings, as residential, commercial,
+                      ARK-TECH Engineering Services has an experience of more
+                      than 26 years now which boasts construction and designing
+                      of thousands of buildings, as residential, commercial,
                       government development works and religious buildings. It
-                      has served hundreds of residences in all over the city of
-                      Lucknow and other cities. As an architect you design for
-                      the present, with an awareness of the past, for a future
-                      which is essentially unknown. We appeal you all to avail
-                      the opportunity of our expertise to avail the prosperous
+                      has served thousands of residences in all over the city of
+                      Lucknow and other cities in UP and other states also and
+                      is a well known and reputed Architect of northern India
+                      who accomplish the related task in a well defined manner
+                      with entire satisfaction of the client for providing
+                      better option of design and low cost construction. For the
+                      present, with an awareness of the past, for a future which
+                      is essentially unknown. We appeal you all to avail the
+                      opportunity of our expertise to construct the prosperous
                       house with least cost.
                     </p>
                     <a
@@ -140,19 +144,21 @@ class About extends Component {
                     <p>
                       We provide the best services in the field of architectural
                       consultation, construction, supervision of construction,
-                      designing, preparation of estimates, surveying, valuation,
-                      interior decoration with expertise in Vaastu.
+                      architectural and structural designing, construction of
+                      multistoried complexes, consultancy and construction in
+                      the field of environment, preparation of estimates,
+                      surveying, valuation of property and interior decoration
+                      with expertise in Vaastu.
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6 col-12 order-4">
                   <div className="about-content about-content-2">
                     <p>
-                      We have provided our services in designing of hundreds of
-                      buildings, as residential, commercial, government
-                      development works and religious buildings. We have served
-                      hundreds of residences all over the city of Lucknow and
-                      other cities.
+                      We have provided our services in designing of thousands of
+                      buildings, as residential, commercial complexes,
+                      Government development works, hospitals and religious
+                      buildings.
                     </p>
                     <a
                       href={`${process.env.PUBLIC_URL}/contact-us`}

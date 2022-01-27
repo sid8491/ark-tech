@@ -29,15 +29,18 @@ class VideoCta extends Component {
                   <p className="video-cta-content__text">
                     ARK-TECH Engineering Services is a leading Architectural
                     Consultation Company at Lucknow in the field of
-                    consultation, construction, supervision of construction,
-                    designing, preparation of estimates, surveying, valuation,
-                    interior decoration with expertise in Vaastu. The
-                    organisation is running its head office at 647/22, Shiv
-                    Vihar, Sector-I, Jankipuram, Lucknow consisting of more
-                    than 16 efficient staff members as architects, engineers,
-                    draftsmen, contractors and authorized valuers. Whole team
+                    consultation, construction, supervision of
+                    construction,architectural and structural designing,
+                    preparation of estimates, surveying, valuation, interior
+                    decoration with expertise in Vaastu. The organisation is
+                    running its head office at 647/22, Shiv Vihar, Sector - I,
+                    Jankipuram, and in its branch office at Mangalam Grand, IIM
+                    Road, Lucknow which consists of more than 16 staff members
+                    as architects, engineers, draughtsmen, construction
+                    executives and authorized property valuers. The whole team
                     comprises of more than 800 people, who are specialized in
-                    different fields, concerned with the organisation.
+                    different fields related to construction industry and
+                    concerned with the organisation.
                   </p>
                   <a
                     href={`${process.env.PUBLIC_URL}/contact-us`}
