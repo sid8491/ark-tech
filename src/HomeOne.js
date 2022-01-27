@@ -5,7 +5,7 @@ import ServiceGridSlider from './components/ServiceGridSlider';
 import Funfact from './components/Funfact';
 import VideoCta from './components/VideoCta';
 import ProjectSlider from './components/ProjectSlider';
-import TeamJob from './components/TeamJob';
+// import TeamJob from './components/TeamJob';
 import TestimonialSlider from './components/TestimonialSlider';
 // import BlogGrid from './components/BlogGrid';
 import BrandLogoSlider from './components/BrandLogoSlider';
